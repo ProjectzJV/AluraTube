@@ -1,18 +1,18 @@
 {
-    "name": "João Victor",
-    "job": "Software Engineer",
+    "name": "João Victor (JV)",
+    "job": "Full Stack Developer ",
     "github": "projectzjv",
     "playlists": {
         "Jogos": [
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+                "title": "GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!",
+                "url": "https://www.youtube.com/watch?v=6fNUO23I_BA",
+                "thumb": "https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw.png"
               },
               {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+                "title": "AMASSEI FIZ 15 KILL NESSE 4X4",
+                "url": "https://www.youtube.com/watch?v=Eaie5J3YTmY",
+                "thumb": "https://i.ytimg.com/vi/Eaie5J3YTmY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHZhvJCg94hQxW3jC7HxOTzFY3GA"
               },
               {
                 "title": "Gas Station Simulator - 8 dias sem dormir!",
@@ -45,11 +45,11 @@
                 "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
               }
             ],
-          "front-end": [
+          "Populares": [
             {
-              "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-              "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-              "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+              "title": "Meu PROBLEMA com Desenvolvedores de Software JÚNIOR",
+              "url": "https://www.youtube.com/watch?v=_YIILFj6mlY",
+              "thumb": "https://i.ytimg.com/vi/_YIILFj6mlY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfTAdmQ4Evf5VEoawmPZXl5DwLHw"
             },
             {
               "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
@@ -92,7 +92,7 @@
               "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
             }
           ],
-          "back-end": [
+          "Continue assistindo": [
             {
               "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
               "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
